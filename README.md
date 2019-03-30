@@ -41,4 +41,4 @@ Project directory
 git clone https://github.com/apeironla/Ejs-Boilerplate.git
 npm install
 node server 
-```late
+```
